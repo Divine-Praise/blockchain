@@ -1,0 +1,26 @@
+[05-Oct-2023 10:23:00 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:23:16 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:23:20 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:23:31 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:23:33 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:23:52 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:24:03 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:24:08 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:24:12 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:24:29 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:24:36 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:24:39 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/logomain.tpl"  on line 5 "<title>{.site_name}</title>"  - Unexpected "site_name", expected one of: INTEGER <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 5
+[05-Oct-2023 10:47:44 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/assetpin/public_html/tmpl/deposit.other.confirm.tpl"  on line 19 "{if  == 1}"  - Unexpected "== " <-- 
+  thrown in /home/assetpin/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 19
